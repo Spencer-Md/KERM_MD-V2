@@ -1,15 +1,15 @@
 {
-    "name": "Kerm_Md-V2",
+    "name": "Spencer-Md",
     "description": "Simple WhatsApp Bot🤖",
     "logo": "https://telegra.ph/file/dc5657036b53a3613d4f7.jpg",
-    "keywords": ["Kg Tech", "Kerm Md", "Kerm_Md-V2"],
+    "keywords": ["Kg Tech", "kerm Md", "Kerm_Md-V2"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
-      "OWNER_NAME": {
+      "OWNER_NAME": 
         "description": "Name for Bot Owner",
-        "value": "Kg Tech",
+        "value": "Team FBI",
         "required": true
       },
   
@@ -40,7 +40,7 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "*ᵏᵍ┘𝙺𝙴𝚁𝙼_𝙼𝙳_𝚅𝟸𖤐*"
+        "value": "*Team_FBI𖤐*"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -80,7 +80,7 @@
       "AUTO_READ_STATUS": {
         "description": "Fill the value true if you want bot view your Statuses.",
         "required": false,
-        "value": "true"
+        "value": "false"
       },
       "MSGS_IN_LOG": {
         "description": "Fill the value -true- if you want to see Messages in logs.",
@@ -99,11 +99,11 @@
       },
       "PREFIX": {
         "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-        "value": "."
+        "value": "+"
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "237656520674"
+        "value": "8097030112"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -115,12 +115,12 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "*ᵏᵍ┘𝙺𝙴𝚁𝙼_𝙼𝙳_𝚅𝟸𖤐*",
+        "value": "*Spencer_PDG_FBI𖤐*",
         "required": false
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "KgTech",
+        "value": "Team_FBI",
         "required": false
       }  
   },
